@@ -1,0 +1,11 @@
+C:\Users\Cynthia Khoe\Source\Repos\AddressBook1\AddressBook1\obj\Debug\AddressBook1.csprojAssemblyReference.cache
+C:\Users\Cynthia Khoe\Source\Repos\AddressBook1\AddressBook1\obj\Debug\AddressBook1.FrmTambahData.resources
+C:\Users\Cynthia Khoe\Source\Repos\AddressBook1\AddressBook1\obj\Debug\AddressBook1.Properties.Resources.resources
+C:\Users\Cynthia Khoe\Source\Repos\AddressBook1\AddressBook1\obj\Debug\AddressBook1.csproj.GenerateResource.cache
+C:\Users\Cynthia Khoe\Source\Repos\AddressBook1\AddressBook1\obj\Debug\AddressBook1.csproj.CoreCompileInputs.cache
+C:\Users\Cynthia Khoe\Source\Repos\AddressBook1\AddressBook1\bin\Debug\AddressBook1.exe.config
+C:\Users\Cynthia Khoe\Source\Repos\AddressBook1\AddressBook1\bin\Debug\AddressBook1.exe
+C:\Users\Cynthia Khoe\Source\Repos\AddressBook1\AddressBook1\bin\Debug\AddressBook1.pdb
+C:\Users\Cynthia Khoe\Source\Repos\AddressBook1\AddressBook1\obj\Debug\AddressBook1.exe
+C:\Users\Cynthia Khoe\Source\Repos\AddressBook1\AddressBook1\obj\Debug\AddressBook1.pdb
+C:\Users\Cynthia Khoe\Source\Repos\AddressBook1\AddressBook1\obj\Debug\AddressBook1.FrmAddressBook.resources
